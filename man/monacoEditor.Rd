@@ -6,7 +6,7 @@
 \title{MonacoEditor component}
 
 \description{
-ExampleComponent is an example component. It takes a property, `label`, and displays it. It renders an input with the property `value` which is editable by the user.
+Monaco Editor based of https://microsoft.github.io/monaco-editor/
 }
 
 \usage{
