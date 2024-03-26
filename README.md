@@ -2,6 +2,8 @@
 
 monaco_editor is a Dash component library.
 
+The component below is created using [monaco-editor](https://microsoft.github.io/monaco-editor)
+
 Creating monaco editor component for dash
 
 Get started with:
