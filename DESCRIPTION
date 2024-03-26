@@ -1,0 +1,13 @@
+Package: monacoEditor
+Title: Creating monaco editor component for dash
+Version: 0.0.1
+Description: Creating monaco editor component for dash
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/DARPA-CRITICALMAAS/monaco-editor
+BugReports: https://github.com/DARPA-CRITICALMAAS/monaco-editor/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
